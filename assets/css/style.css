@@ -1,0 +1,35 @@
+body{
+    background-image: url("../images/milky-way-2695569_960_720.jpg");   
+}
+#orange{
+    background-color: orange;
+    width: 1200px;
+    height: 1040px;
+    text-align: center;
+    margin: 30px 30px 30px 150px;
+}
+#start{
+    margin: -650px 50px 50px 600px;
+}
+#button{
+    width: 300px;
+    height: 50px;
+    background-color: black;
+    color: white;
+}
+#pack1{
+    margin: -1000px 30px 30px 50px;
+    text-align: center;
+}
+#pack2{
+    text-align: center;
+}
+#pack3{
+    text-align: center;
+}
+#message{
+    margin: -400px 30px 30px 500px;
+}
+#submit{
+    margin: 30px 30px 30px 700px;
+}
