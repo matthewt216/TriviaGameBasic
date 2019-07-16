@@ -192,6 +192,9 @@ function count(){
         if (c2 === false){
             unanswered++;
         };
+        if (c3 === false){
+            unanswered++;
+        };
         $("#message").html("Correct: " + correct + "<br>" + "Incorrect: " + incorrect + "<br>" + "Unanswered: " + unanswered); 
         $("#pack1").hide();
         $("#pack2").hide();
