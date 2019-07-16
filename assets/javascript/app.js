@@ -17,7 +17,7 @@ var c1 = false;
 var c2 = false;
 var c3 = false;
 var intervalId;
-var time = 4;
+var time = 3;
 $("#button").on("click", function(){
     $("#pack1").show();
     $("#pack2").show();
